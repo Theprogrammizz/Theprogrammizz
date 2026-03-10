@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theprogrammizz&label=Profile%20views&color=0e75b6&style=flat" alt="theprogrammizz" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b0/fe/e3/b0fee33d7a8e955e72da5d06e6713e43.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [TickTask](https://github.com/Theprogrammizz/ticktask-flutter)
 
