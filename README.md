@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Beta](https://github.com/Theprogrammizz/beta_flutter)
+- 🔭 I’m currently working on [Lumen](https://github.com/Theprogrammizz/lumen_flutter.git)
 
 - 🌱 I’m currently learning **Flutter**
 
